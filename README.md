@@ -1,4 +1,4 @@
-# simple-vue-crud-with-vuex
+# Simple Vue CRUD with Vuex
 
 ## Project setup
 ```
